@@ -1,0 +1,1 @@
+When you initialize a repository, a .git file is created without any commits in it. It is a necessary step so that commits can be stored somewhere.

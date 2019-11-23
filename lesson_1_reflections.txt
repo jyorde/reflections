@@ -1,0 +1,23 @@
+Using diff made it so that I did not have to manually compare every line
+Instead the computer compared the bulk of lines and only showed me ones with a difference
+
+
+Instead of spending lots of time hunting for bugs in code, 
+easy access to the entire history of a file could save me time debugging
+lots of time over a lifetime
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+The commits are meaningful because they can have a short description and have been intentional by the user.
+Unfortunately, user error can also contribute to a lack of commit when it might have been useful.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Git organizes related files into a project and allows one to save them all as a commit since they are interrelated. Changes between GoogleDocs are usually unrelated between files.
+
+How can you use the commands git log and git diff to view the history of files?
+git log shows the history of the commits while git diff compares two files and their changes
+
+How might using version control make you more confident to make changes that could break something?
+Version control would allow me to easily undo problems that I contributed to breaking something.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+This course first. And then a personal project using urban data from USC.
