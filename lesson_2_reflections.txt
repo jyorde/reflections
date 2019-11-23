@@ -1,1 +1,4 @@
 When you initialize a repository, a .git file is created without any commits in it. It is a necessary step so that commits can be stored somewhere.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is not stored long term. It offers the ability to keep something until it is ready to be saved as a commit. If it isn't that important, it never is.
