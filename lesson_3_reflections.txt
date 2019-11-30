@@ -21,7 +21,7 @@ Internet access is not needed for updates becuase the last known state is stored
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Collaborating without Git or GitHub would be a lot of file exchanging through either email, FTP, Dropbox or something else. But in any case, it woudl be a lot of files to keep track of and changes not being easy to revert back to. It would be easy not having to learn an entire system just for making changes, though.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
