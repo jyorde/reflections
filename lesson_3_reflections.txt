@@ -16,7 +16,7 @@ A fork copies a repository on GitHub and keeps a record of it's owner. It also a
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+Internet access is not needed for updates becuase the last known state is stored locally. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
