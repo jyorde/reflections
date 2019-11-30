@@ -11,7 +11,7 @@ Pulling changes manually prevents Git from trying to sync with a remote reposito
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+A fork copies a repository on GitHub and keeps a record of it's owner. It also acts like a new repository from which to work from. Clones are like a copy of a repository, but they don't give credit to the original. And a branch is a string of changes to a repository.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
