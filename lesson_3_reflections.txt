@@ -26,4 +26,4 @@ Collaborating without Git or GitHub would be a lot of file exchanging through ei
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+Making changes in a separate branch makes it easy to develop a feature that might not ever be incorporated into the master. However, working on a change in the master makes it easy to keep track of the number of versions of the same code and where they are at.
